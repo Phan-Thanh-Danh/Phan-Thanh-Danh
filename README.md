@@ -1,62 +1,55 @@
-<!-- HEADER & TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Phan+Th%C3%A0nh+Danh;Full-stack+Web+Developer+%F0%9F%92%BB;ASP.NET+Core+%7C+Database+Optimization+%7C+AI;Future+Information+Security+Specialist+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38EF7D&center=true&vCenter=true&width=750&lines=Hello+World!+I'm+Phan+Th%C3%A0nh+Danh+%F0%9F%91%8B;AKA+Danzo_Dex+%7C+Software+Developer+%F0%9F%92%BB;Full-stack+.NET+%26+Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+</div>
+
+<!-- BANNER -->
+<div align="center">
+  <img width="100%" src="./Black%20and%20Teal%20Modern%20Web%20Developer%20Presentation.jpg" alt="Phan Thành Danh Banner" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Phan-Thanh-Danh&label=Profile%20Views&color=4FC08D&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Phan-Thanh-Danh&label=Profile%20Views&color=38EF7D&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Securing%20The%20Code-%2338EF7D?style=for-the-badge&logo=appveyor" alt="Status" />
   <a href="https://github.com/Phan-Thanh-Danh?tab=followers">
-    <img src="https://img.shields.io/github/followers/Phan-Thanh-Danh?label=Followers&style=for-the-badge&color=239120&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Phan-Thanh-Danh?label=Followers&style=for-the-badge&color=239120&logo=github" alt="Followers" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me (Bio)
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
-
-- 🎓 I'm currently studying Software Development at **FPT Polytechnic College**.
-- 🔭 I’m focusing on **building RESTful APIs with ASP.NET Core**, **Database Optimization**, and **AI Integration**.
-- 🛡️ **Upcoming Goal:** Diving deep into **Information Security (Cybersecurity)** & building secure systems.
-- ⚡ **Hobbies & Fun facts:** Playing Football ⚽, Gaming 🎮, and Listening to Music 🎧.
-- 📫 **Reach me at:** [phanthanhdanh7108@gmail.com](mailto:phanthanhdanh7108@gmail.com)
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td width="70%">
+      <p align="justify">
+        Hello everyone, I'm <b>Phan Thành Danh</b>, also known online as <b>Danzo_Dex</b>. Born and raised in <b>Vietnam🇻🇳</b>, I am a passionate Software Developer who recently graduated with an Excellent Distinction (GPA: 8.7/10) from <b>FPT Polytechnic College</b>. My core expertise lies in architecting robust RESTful APIs using C# & ASP.NET Core, optimizing database performance, and exploring AI integration in modern web applications. Looking ahead, I am strongly dedicated to diving deep into <b>Information Security (Cybersecurity)</b>, vulnerability analysis, and secure system design. Outside of coding, you can often find me playing football, gaming, or enjoying good music.
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img width="220" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Hacker GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:phanthanhdanh7108@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/phan-th%C3%A0nh-danh-4a298734b/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/thanh.danh.phan.941321">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/thanhdanh8707/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/Danzo_Dex">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter" />
-  </a>
-  <a href="https://www.behance.net/Phan-Thanh-Danh">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="https://discord.com/users/1122383732310024222">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  <a href="mailto:phanthanhdanh7108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/phan-th%C3%A0nh-danh-4a298734b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/thanh.danh.phan.941321"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/thanhdanh8707/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/Danzo_Dex"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
+  <a href="https://discord.com/users/1122383732310024222"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 ---
 
-## 💻 Tech Stack & Tools
+## 🚀 Tech Stack & Skills
 
-### 🔹 Programming Languages
+### 🔹 Languages
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -69,43 +62,32 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### 🔹 Frontend & Mobile
+### 🔹 Frontend & UI
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-### 🔹 Databases
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### 🔹 Databases, Security & DevOps
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔹 DevOps, Security & Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics & Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phan-Thanh-Danh&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
@@ -117,19 +99,20 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phan-Thanh-Danh&theme=vue&hide_border=false&area=true" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Phan-Thanh-Danh&theme=vue&hide_border=false&area=true" alt="Activity Graph" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💬 Random Dev Quote
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Phan-Thanh-Danh&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </div>
 
 ---
 
 <div align="center">
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i>
+  <i>"Regards, Phan Thành Danh (Danzo_Dex)"</i><br/>
+  <sub>Thanks for stopping by, and let's build a safer, cleaner web together! 🚀</sub>
 </div>
